@@ -67,3 +67,4 @@ SELECT *
 FROM discharges
 WHERE discharge_disposition = 'Home'
 AND discharge_date BETWEEN '2018-03-01' AND '2018-03-07';
+
